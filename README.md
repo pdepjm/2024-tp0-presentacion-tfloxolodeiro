@@ -21,3 +21,5 @@
 ## HOBBIES
 
 programacion amo programar y hacer codigo todo el dia yo me despierto y le rezo bill gates por inventar la programacion y despues yo prendo mi computadora con mi teclado y presiono teclas en el teclado para que ocurra la programacion y yo me siento feliz cuando la programacion pasa porque cuando no pasa no me hace feliz y me pongo triste despues de eso no hago nada cuando no tengo nada que programar yo me tiro en el piso boca bajo y espero hasta que empiece el proximo dia para poder programar si no programo no se que hacer ayuda no se que hacer ayuda no se que hacer ayuda no se que hacer 
+
+![BlackBerry](https://img.shields.io/badge/blackberry-808080.svg?style=for-the-badge&logo=blackberry&logoColor=white)
